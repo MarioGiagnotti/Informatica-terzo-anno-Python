@@ -10,7 +10,7 @@ Questo è un semplice repository basato su **Python**.
 
 1. Clona il repository:
 
-git clone https://github.com/MarioGiagnotti/Informatica-terzo-anno-Python.git
+git clone https://github.com/MarioGiagnotti/Esercizi_introduttivi_a_Python.git
 
 oppure fare il Download del file .zip
 
